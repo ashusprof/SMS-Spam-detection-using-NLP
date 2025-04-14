@@ -1,4 +1,4 @@
-📩 SMS Spam Detection using NLP
+# 📩 SMS Spam Detection using NLP
 
 Welcome to this project where we explore Natural Language Processing (NLP) techniques to classify SMS messages as Spam or Non-Spam. This notebook uses basic text preprocessing and the Naive Bayes algorithm to build a simple yet effective spam classifier.
 
